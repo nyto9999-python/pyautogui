@@ -1,2 +1,2 @@
 
-用 pyautogui 做簡單的外掛按鍵精靈
+用 pyautogui 圖像識別的按鍵精靈外掛
